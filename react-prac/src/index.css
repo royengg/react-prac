@@ -1,0 +1,16 @@
+body {
+  background-color: #111;
+}
+
+.card {
+  background: pink;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+#navbar-title {
+  color: white;
+  background-color: red;
+  margin-top: 20px;
+  font-size: 2rem;
+}
